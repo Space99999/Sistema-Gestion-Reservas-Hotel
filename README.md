@@ -25,3 +25,9 @@ SOLO ES POR CONSOLA SIN INTERFAZ GRAFICA
 
    ```bash
    git clone
+2. Compila el archivo Proyecto_2p.java:
+   ```bash
+   javac Proyecto_2p.java
+3. Ejecuta el programa:
+   ```bash
+   java Proyecto_2p
