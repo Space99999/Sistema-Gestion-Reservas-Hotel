@@ -1,0 +1,6 @@
+Habitacion Multiple,2,color verde,100.0,0,1,4
+Habitacion Sencilla,4,color gris claro,40.0,0,0
+Habitacion Multiple,6,color azul oscuro,250.0,1,1,5
+Habitacion Matrimonial,8,Color marrón ,80.0,0,1
+Habitacion Multiple,10,color naranja,110.0,1,0,4
+Habitacion Matrimonial,88,color azul,15.0,0,1

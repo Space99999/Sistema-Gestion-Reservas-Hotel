@@ -1,0 +1,4 @@
+Antonio,Preciado,099,0000001,as@gmail.com
+Juan,Lainez,0101,04545,45@gmail.com
+Pedro,Quitumbe,045,656566,4sad@gmail.com
+Juan,Cazares,0812,0973733,cazaresa
